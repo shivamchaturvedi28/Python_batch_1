@@ -1,0 +1,71 @@
+## Deep Dive into Operators
+
+
+1. Introduction to Operators
+2. Arithmetic Operators
+   - Addition
+   - Subtraction
+   - Multiplication
+   - Division
+   - Floor Division
+   - Modulus
+   - Exponentiation
+3. Comparison Operators
+   - Equal to
+   - Not equal to
+   - Greater than
+   - Less than
+   - Greater than or equal to 
+   - Less than or equal to
+4. Logical Operators
+   - AND
+   - OR
+   - NOT
+5. Practical Examples and Common Errors
+
+
+## Arithmethic Operation
+
+
+
+
+## Comparison Operators
+## == Equal to
+
+
+
+
+## Not Equal to !=
+
+
+
+# greater than >
+
+
+
+## less than <
+
+
+
+
+#greater than or equal to
+
+
+
+
+#less than or equal to
+
+
+
+
+
+
+#### Logical Operators
+
+
+
+
+## And ,Not,OR
+
+
+

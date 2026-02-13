@@ -1,0 +1,58 @@
+### Syntax and Semantics in Python
+- Single line Comments and multiline comments 
+- Definition of Syntax and Semantics
+- Basic Syntax Rules in Python
+- Understanding Semantics in Python
+- Common Syntax Errors and How to Avoid Them
+- Practical Code Examples
+
+Syntax refers to the set of rules that defines the combinations of symbols that are considered to be correctly structured programs in a language. In simpler terms, syntax is about the correct arrangement of words and symbols in a code.
+
+Semantics refers to the meaning or the interpretation of the symbols, characters, and commands in a language. It is about what the code is supposed to do when it runs.
+
+
+
+## Basic Syntax Rules In Python
+## Case sensitivity- Python is case sensitive
+
+
+
+### Indentation
+Indentation in Python is used to define the structure and hierarchy of the code. Unlike many other programming languages that use braces {} to delimit blocks of code, Python uses indentation to determine the grouping of statements. This means that all the statements within a block must be indented at the same level.
+
+
+
+## Indentation
+## Python uses indentation to define blocks of code. Consistent use of spaces (commonly 4) or a tab is required.
+
+
+
+
+## This is a single line comment
+
+
+
+
+## Line Continuation
+##Use a backslash (\) to continue a statement to the next line
+
+
+
+
+## Multiple Statements on a single line
+
+
+
+
+##Understand  Semnatics In Python
+# variable assignment
+
+
+
+
+## Type Inference
+
+
+
+
+

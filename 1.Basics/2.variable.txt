@@ -1,0 +1,91 @@
+### Variables
+Variables are fundamental elements in programming used to store data that can be referenced and manipulated in a program. In Python, variables are created when you assign a value to them, and they do not need explicit declaration to reserve memory space. The declaration happens automatically when you assign a value to a variable.
+
+
+- Introduction to Variables
+- Declaring and Assigning Variables
+- Naming Conventions
+- Understanding Variable Types
+- Type Checking and Conversion
+- Dynamic Typing
+- Practical Examples and Common Errors
+
+
+## Declaring And Assigning Variables
+
+
+
+## printing the variables
+
+
+
+
+
+## Naming Conventions
+## Variable names should be descriptive
+## They must start with a letter or an '_' and contains letter,numbers and underscores
+## variables names case sensitive
+
+#valid variable names
+
+
+
+
+
+# Invalid variable names
+
+
+
+
+## Understnading Variable types
+## Python is dynamically typed,type of a variable is determined at runtime
+
+
+
+
+
+
+
+
+## Type Checking and Conversion
+
+
+
+
+
+
+# Type conversion
+
+
+
+
+
+
+## Dynamic Typing
+## Python allows the type of a vraible to change as the program executes
+
+
+
+
+
+
+## input
+
+
+
+
+
+
+### Simple calculator
+num1 = float(input("Enter first number: "))
+num2 = float(input("Enter second number: "))
+
+sum = num1 + num2
+difference = num1 - num2
+product = num1 * num2
+quotient = num1 / num2
+
+print("Sum:", sum)
+print("Difference:", difference)
+print("Product:", product)
+print("Quotient:", quotient)
